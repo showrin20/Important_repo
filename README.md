@@ -130,6 +130,12 @@ A comprehensive list of resources for students. Includes links to tutorials, cou
 
 ---
 
+
+
 ### 27. [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 A list of companies that don't use whiteboard interviews. Useful for job seekers looking for alternative interview processes.
 
+### 28. [Entrepreneurship resources](https://github.com/charlax/entrepreneurship-resources)
+A comprehensive list of resources for students. Includes links to tutorials, courses, and tools for various subjects.
+
+---
